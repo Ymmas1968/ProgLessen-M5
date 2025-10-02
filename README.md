@@ -10,6 +10,11 @@ In deze opdracht heb ik geleerd door een hoeveelheid objects, op random plekken 
 ![Spawner](https://github.com/Ymmas1968/ProgLessen-M5/blob/main/ProgLessen%20M5%20-%20Opdracht%202%20-%20Windows%2C%20Mac%2C%20Linux%20-%20Unity%206.0%20(6000.0.47f1)_%20_DX11_%202025-09-18%2010-16-40.gif)
 https://github.com/Ymmas1968/ProgLessen-M5/blob/main/Assets/Script/Opdracht%202%20scripts/TowerSpawner.cs
 
+# List and loops (Opdrcht 3)
+
+![Cube](https://github.com/Ymmas1968/ProgLessen-M5/blob/main/ProgLessen%20M5%20-%20Opdracht%203%20-%20Windows%2C%20Mac%2C%20Linux%20-%20Unity%206.0%20(6000.0.47f1)_%20_DX11_%202025-10-02%2010-19-21.gif)
+https://github.com/Ymmas1968/ProgLessen-M5/blob/main/Assets/Script/Opdracht%203%20scripts/CubeDupe.cs
+
 # PickUp (events opdracht 4)
 
 ![PickUp](https://github.com/Ymmas1968/ProgLessen-M5/blob/main/ProgLessen%20M5%20-%20Opdracht%204%20-%20Windows%2C%20Mac%2C%20Linux%20-%20Unity%206.0%20(6000.0.47f1)_%20_DX11_%202025-09-18%2010-00-01.gif)
