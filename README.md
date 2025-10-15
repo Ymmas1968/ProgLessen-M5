@@ -20,7 +20,7 @@ https://github.com/Ymmas1968/ProgLessen-M5/blob/main/Assets/Script/Opdracht%203%
 ![PickUp](https://github.com/Ymmas1968/ProgLessen-M5/blob/main/ProgLessen%20M5%20-%20Opdracht%204%20-%20Windows%2C%20Mac%2C%20Linux%20-%20Unity%206.0%20(6000.0.47f1)_%20_DX11_%202025-09-18%2010-00-01.gif)
 https://github.com/Ymmas1968/ProgLessen-M5/tree/main/Assets/Script/Opdracht%204%20scripts
 
-# DRY & SRP (opdracht 6)
+# DRY & SRP (opdracht 6/7)
 
 ![SRP&DRY](https://github.com/Ymmas1968/ProgLessen-M5/blob/main/opdracht%206%20hip.gif)
 link naar repo: https://github.com/Ymmas1968/Space48
