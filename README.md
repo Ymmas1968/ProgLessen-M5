@@ -37,3 +37,10 @@ hier heb ik geleerd goed en krachtig bugs te reporten, voor eigen overzichtelijk
 link naar repo: https://github.com/Ymmas1968/Space48
 
 hier heb ik single responsibility geleerd en don't repeat yourself.
+
+# Inheritance (opdracht 8)
+
+![inhe](https://github.com/Ymmas1968/ProgLessen-M5/blob/main/ProgLessen%20M5%20-%20Opdracht%208%20-%20Windows%2C%20Mac%2C%20Linux%20-%20Unity%206.0%20(6000.0.47f1)_%20_DX11_%202025-11-06%2010-06-30.gif)
+https://github.com/Ymmas1968/ProgLessen-M5/tree/main/Assets/Script/Opdracht%208
+
+Hier heb ik Inheritance geleerd.
