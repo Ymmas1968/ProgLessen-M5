@@ -36,4 +36,4 @@ hier heb ik geleerd goed en krachtig bugs te reporten, voor eigen overzichtelijk
 ![SRP&DRY](https://github.com/Ymmas1968/ProgLessen-M5/blob/main/opdracht%206%20hip.gif)
 link naar repo: https://github.com/Ymmas1968/Space48
 
-hier heb ik single responsebility geleerd en don't repeat yourself.
+hier heb ik single responsibility geleerd en don't repeat yourself.
