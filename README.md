@@ -44,3 +44,7 @@ hier heb ik single responsibility geleerd en don't repeat yourself.
 https://github.com/Ymmas1968/ProgLessen-M5/tree/main/Assets/Script/Opdracht%208
 
 Hier heb ik Inheritance geleerd.
+
+# M6 PROG
+
+
