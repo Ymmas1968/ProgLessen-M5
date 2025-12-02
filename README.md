@@ -47,4 +47,4 @@ Hier heb ik Inheritance geleerd.
 
 # M6 PROG
 
-![classdiagram]([https://github.com/Ymmas1968/ProgLessen-M5/blob/main/classdiagram%20TD.png)
+![classdiagram](https://github.com/Ymmas1968/ProgLessen-M5/blob/main/classdiagram%20TD.png)
