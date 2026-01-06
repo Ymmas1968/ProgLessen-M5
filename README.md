@@ -51,4 +51,4 @@ Hier heb ik Inheritance geleerd.
 https://github.com/Ymmas1968/ProgLessen-M5/blob/main/ClassDiagram.md
 
 # Early Returns
-![Early](https://github.com/Ymmas1968/ProgLessen-M5/commit/13cbb48e4ffed19d61f3cfe43fb9e67a786bea44#diff-ae8134dec6ac4bb8ea0a3613357852b20bc7944dfac13088d551ff469c47f057)
+![Early](https://github.com/Ymmas1968/ProgLessen-M5/blob/main/Assets/Script/EarlyReturns/EarlyReturns.cs)
