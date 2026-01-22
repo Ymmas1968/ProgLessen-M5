@@ -28,14 +28,14 @@
 
     // Resource / state checks
     bool hasResources =
-        (player.Mana >= 20 && player.WeaponEquipped) ||
+        (player.Mana >= 20 && player.WeaponEquipped) 
         (player.Health >= 30 && player.HasBuff("Strength"));
 
     if (!hasResources)
         return false;
 
-    if (player.IsStunned || player.IsSlowed)
-        return false;
+    if (player.IsStunned  player.IsSlowed)
+    return false;
 
     // Alles klopt → aanval mogelijk
     return true;
