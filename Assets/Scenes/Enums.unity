@@ -128,6 +128,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1784073904}
+  - component: {fileID: 1784073905}
   m_Layer: 0
   m_Name: GameObject
   m_TagString: Untagged
@@ -150,6 +151,52 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1784073905
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1784073903}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b46c6e5472c19f84fb027ce2a562c145, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemNames:
+  - hoi
+  - hoii
+  - hoiii
+  - hoiiii
+  - hoiiiii
+  itemTypes: 0000000001000000020000000300000004000000
+  itemStats:
+  - damage: 1
+    defense: 2
+    weight: 3
+  - damage: 4
+    defense: 5
+    weight: 6
+  - damage: 7
+    defense: 8
+    weight: 9
+  - damage: 10
+    defense: 11
+    weight: 12
+  - damage: 13
+    defense: 14
+    weight: 15
+  itemPrices: 0100000002000000030000000400000005000000
+  items:
+  - itemName: 
+    itemType: 1
+    stats:
+      damage: 0
+      defense: 0
+      weight: 0
+    price: 0
+    isEquipped: 0
+  filterType: 1
 --- !u!1 &1821117688
 GameObject:
   m_ObjectHideFlags: 0
