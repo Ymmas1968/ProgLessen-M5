@@ -54,5 +54,9 @@ https://github.com/Ymmas1968/ProgLessen-M5/blob/main/ClassDiagram.md
 ![Inventory](https://github.com/Ymmas1968/ProgLessen-M5/blob/main/ProgOpdrachten-M5%20-%20Enums%20-%20Windows%2C%20Mac%2C%20Linux%20-%20Unity%206.0%20(6000.0.47f1)_%20_DX11_%202026-01-22%2011-56-22.gif)
 https://github.com/Ymmas1968/ProgLessen-M5/blob/main/Assets/Script/Enums/InventorySystem.cs
 
+# Abstractions
+![Abstractions](https://github.com/Ymmas1968/ProgLessen-M5/blob/main/ProgOpdrachten-M5%20-%20Abstractions%20-%20Windows%2C%20Mac%2C%20Linux%20-%20Unity%206.0%20(6000.0.47f1)_%20_DX11_%202026-01-22%2013-31-24.gif)
+https://github.com/Ymmas1968/ProgLessen-M5/tree/main/Assets/Script/Abstractions
+
 # Early Returns
 ![Early](https://github.com/Ymmas1968/ProgLessen-M5/blob/main/Assets/Script/EarlyReturns/EarlyReturns.cs)
