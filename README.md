@@ -50,5 +50,9 @@ Hier heb ik Inheritance geleerd.
 ![classdiagram](https://github.com/Ymmas1968/ProgLessen-M5/blob/main/classdiagram%20TD.png)
 https://github.com/Ymmas1968/ProgLessen-M5/blob/main/ClassDiagram.md
 
+# Enums/Inventory System
+![Inventory]()
+https://github.com/Ymmas1968/ProgLessen-M5/blob/main/Assets/Script/Enums/InventorySystem.cs
+
 # Early Returns
 ![Early](https://github.com/Ymmas1968/ProgLessen-M5/blob/main/Assets/Script/EarlyReturns/EarlyReturns.cs)
